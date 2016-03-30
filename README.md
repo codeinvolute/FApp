@@ -6,10 +6,15 @@ Recently I've came across many programmers who want to create a Facebook App( ba
 Basic tools to run this script
 
 PHP 5.4 or above.
+
 PHP GD library.
+
 PHP mbstring(facebook recommended).
+
 Rewrite mod enabled server.
+
 Bootstrap*.
+
 Jquery*.
 
 *for template only.
